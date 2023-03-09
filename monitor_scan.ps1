@@ -1,4 +1,5 @@
 $url = 'https://github.com/jelpsIT/automation_EDIDs/raw/main/DumpEDID.exe'
+New-Item -ItemType Directory -Path C:\Temp -Force
 $outpath = "C:/temp/DumpEDID.exe"
 Invoke-WebRequest -Uri $url -OutFile $outpath
  
