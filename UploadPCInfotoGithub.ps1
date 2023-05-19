@@ -3,15 +3,10 @@ $repoOwner = "jelpsIT"
 $repoName = "NAble-CSV"
 $repoFilePath = "FinalListv2.csv" # Name of the file to store the data
 
-$random = New-Object -TypeName System.Random
 $baseWaitTime = 1
-$increment = 3
 
-$waitTime = $baseWaitTime + ($random.Next() % $increment)
+$waitTime = $baseWaitTime
 Start-Sleep -Seconds $waitTime
-
-# Increment the wait time for the next run
-$baseWaitTime += $increment
 
 # Function to format the consolidated data as a string
 $k1 = "zaI1e"
