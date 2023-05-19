@@ -3,7 +3,7 @@ $repoOwner = "jelpsIT"
 $repoName = "NAble-CSV"
 $repoFilePath = "FinalListv2.csv" # Name of the file to store the data
 
-$baseWaitTime = 1
+$baseWaitTime = 0
 
 $waitTime = $baseWaitTime
 Start-Sleep -Seconds $waitTime
