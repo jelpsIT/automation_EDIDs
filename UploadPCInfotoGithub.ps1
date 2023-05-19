@@ -4,7 +4,7 @@ $repoName = "NAble-CSV"
 $repoFilePath = "FinalListv2.csv" # Name of the file to store the data
 
 $random = New-Object -TypeName System.Random
-$baseWaitTime = 5
+$baseWaitTime = 1
 $increment = 3
 
 $waitTime = $baseWaitTime + ($random.Next() % $increment)
